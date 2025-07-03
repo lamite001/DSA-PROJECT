@@ -49,12 +49,49 @@ expressions used during the analysis.
 
 
 ### ANALYSIS
-![PIE CHART]
+![DASHBOARD]
+![Screenshot (154)](https://github.com/user-attachments/assets/11b5b0e2-6837-4da8-a8dd-0010e4d2af1e)
 
 
 
-![BAR CHART]
 
+
+
+![PIE CHART]![Screenshot (151)](https://github.com/user-attachments/assets/0f4776c7-bcd9-49b4-a134-268c2a1efa26)
+
+
+
+
+
+
+
+
+
+![HISTOGRAM]![Screenshot (150)](https://github.com/user-attachments/assets/ee139ffd-b3f4-4d6e-b77b-bbfeb5d86786)
+
+
+
+
+
+
+
+
+
+
+![BAR CHART]![Screenshot (149)](https://github.com/user-attachments/assets/cc2a9455-19fe-4b3b-83f5-694b7c78ca77)
+
+
+
+
+
+
+
+
+![BAR CHART]![Screenshot (152)](https://github.com/user-attachments/assets/7d45989b-85d2-4a3a-9ccb-4df847524d12)
+
+
+
+!
 
 
 
